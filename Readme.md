@@ -15,12 +15,12 @@ This is a simple bank account management system implemented in Java. The program
 ### Running the Program
 1. Clone the repository:
 ```
-git clone https://github.com/madhurik04/bank-account-management-system.git
+git clone https://github.com/madhurik04/Banking-Management-System
 ```
 
 2. Navigate to the project directory:
 ```
-cd bank-account-management-system
+cd Banking-Management-System
 ```
 
 3. Compile the Java file:
